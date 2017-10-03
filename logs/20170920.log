@@ -1,0 +1,547 @@
+0	23:23:34.747	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\config\terminal.ini' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\config\terminal.ini'
+0	23:23:34.754	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\config\OANDA-Japan Live.srv' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\config\OANDA-Japan Live.srv'
+0	23:23:34.762	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\config\OANDA-Japan Practice.srv' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\config\OANDA-Japan Practice.srv'
+0	23:23:34.763	Migration: config folder copied from 'C:\Program Files\OANDA - MetaTrader' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0'
+0	23:23:34.793	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\EURUSD240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\EURUSD240.hst'
+0	23:23:34.938	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\GBPUSD240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\GBPUSD240.hst'
+0	23:23:34.954	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\USDCHF240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\USDCHF240.hst'
+0	23:23:34.977	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\USDJPY240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\USDJPY240.hst'
+0	23:23:34.999	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\symbols.sel' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\symbols.sel'
+0	23:23:35.018	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\symbols.raw' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\symbols.raw'
+0	23:23:35.034	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\symgroups.raw' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\symgroups.raw'
+0	23:23:35.039	Migration: history folder copied from 'C:\Program Files\OANDA - MetaTrader' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0'
+0	23:23:35.057	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\EURUSD240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\EURUSD240.hst'
+0	23:23:35.203	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\GBPUSD240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\GBPUSD240.hst'
+0	23:23:35.218	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\symbols.raw' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\symbols.raw'
+0	23:23:35.223	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\symbols.sel' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\symbols.sel'
+0	23:23:35.228	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\symgroups.raw' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\symgroups.raw'
+0	23:23:35.244	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\USDCHF240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\USDCHF240.hst'
+0	23:23:35.267	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\default\USDJPY240.hst' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\default\USDJPY240.hst'
+0	23:23:35.282	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\symbolsets\forex.set' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\symbolsets\forex.set'
+0	23:23:35.298	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\symbolsets\forexall.set' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\symbolsets\forexall.set'
+0	23:23:35.348	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998400.arabic' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998400.arabic'
+0	23:23:35.390	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998401.bulgarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998401.bulgarian'
+0	23:23:35.435	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998402.chinese (simplified)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998402.chinese (simplified)'
+0	23:23:35.475	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998403.chinese (traditional)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998403.chinese (traditional)'
+0	23:23:35.515	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998404.czech' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998404.czech'
+0	23:23:35.556	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998405.english' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998405.english'
+0	23:23:35.597	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998406.french' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998406.french'
+0	23:23:35.636	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998407.german' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998407.german'
+0	23:23:35.677	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998408.greek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998408.greek'
+0	23:23:35.722	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998409.hebrew' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998409.hebrew'
+0	23:23:35.779	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998410.hungarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998410.hungarian'
+0	23:23:35.819	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998411.indonesian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998411.indonesian'
+0	23:23:35.860	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998412.italian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998412.italian'
+0	23:23:35.907	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998413.japanese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998413.japanese'
+0	23:23:35.947	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998414.malay' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998414.malay'
+0	23:23:35.988	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998415.polish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998415.polish'
+0	23:23:36.031	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998416.portuguese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998416.portuguese'
+0	23:23:36.119	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998417.russian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998417.russian'
+0	23:23:36.158	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998418.slovenian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998418.slovenian'
+0	23:23:36.198	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998419.spanish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998419.spanish'
+0	23:23:36.240	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998420.tajik' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998420.tajik'
+0	23:23:36.308	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998421.thai' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998421.thai'
+0	23:23:36.347	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998422.turkish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998422.turkish'
+0	23:23:36.568	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998423.uzbek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998423.uzbek'
+0	23:23:36.607	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998424.vietnamese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998424.vietnamese'
+0	23:23:36.648	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998425.arabic' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998425.arabic'
+0	23:23:36.688	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998426.bulgarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998426.bulgarian'
+0	23:23:36.728	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998427.chinese (simplified)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998427.chinese (simplified)'
+0	23:23:36.768	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998428.chinese (traditional)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998428.chinese (traditional)'
+0	23:23:36.808	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998429.czech' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998429.czech'
+0	23:23:36.848	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998430.english' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998430.english'
+0	23:23:36.889	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998431.french' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998431.french'
+0	23:23:36.933	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998432.german' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998432.german'
+0	23:23:36.975	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998433.greek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998433.greek'
+0	23:23:37.018	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998434.hebrew' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998434.hebrew'
+0	23:23:37.057	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998435.hungarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998435.hungarian'
+0	23:23:37.095	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998436.indonesian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998436.indonesian'
+0	23:23:37.136	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998437.italian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998437.italian'
+0	23:23:37.175	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998438.japanese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998438.japanese'
+0	23:23:37.220	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998439.malay' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998439.malay'
+0	23:23:37.276	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998440.polish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998440.polish'
+0	23:23:37.318	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998441.portuguese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998441.portuguese'
+0	23:23:37.364	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998442.russian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998442.russian'
+0	23:23:37.405	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998443.slovenian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998443.slovenian'
+0	23:23:37.444	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998444.spanish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998444.spanish'
+0	23:23:37.491	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998445.tajik' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998445.tajik'
+0	23:23:37.547	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998446.thai' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998446.thai'
+0	23:23:37.586	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998447.turkish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998447.turkish'
+0	23:23:37.626	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998448.uzbek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998448.uzbek'
+0	23:23:37.667	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998449.vietnamese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998449.vietnamese'
+0	23:23:37.708	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998450.arabic' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998450.arabic'
+0	23:23:37.747	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998451.bulgarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998451.bulgarian'
+0	23:23:37.787	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998452.chinese (simplified)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998452.chinese (simplified)'
+0	23:23:37.828	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998453.chinese (traditional)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998453.chinese (traditional)'
+0	23:23:37.866	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998454.czech' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998454.czech'
+0	23:23:37.910	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998455.english' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998455.english'
+0	23:23:37.952	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998456.french' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998456.french'
+0	23:23:37.993	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998457.german' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998457.german'
+0	23:23:38.032	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998458.greek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998458.greek'
+0	23:23:38.075	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998459.hebrew' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998459.hebrew'
+0	23:23:38.117	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998460.hungarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998460.hungarian'
+0	23:23:38.160	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998461.indonesian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998461.indonesian'
+0	23:23:38.200	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998462.italian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998462.italian'
+0	23:23:38.240	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998463.japanese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998463.japanese'
+0	23:23:38.278	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998464.malay' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998464.malay'
+0	23:23:38.318	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998465.polish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998465.polish'
+0	23:23:38.359	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998466.portuguese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998466.portuguese'
+0	23:23:38.401	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998467.russian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998467.russian'
+0	23:23:38.440	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998468.slovenian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998468.slovenian'
+0	23:23:38.482	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998469.spanish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998469.spanish'
+0	23:23:38.530	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998470.tajik' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998470.tajik'
+0	23:23:38.633	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998471.thai' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998471.thai'
+0	23:23:38.673	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998472.turkish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998472.turkish'
+0	23:23:38.725	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998473.uzbek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998473.uzbek'
+0	23:23:38.769	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998474.vietnamese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998474.vietnamese'
+0	23:23:38.812	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998475.arabic' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998475.arabic'
+0	23:23:38.863	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998476.bulgarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998476.bulgarian'
+0	23:23:38.903	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998477.chinese (simplified)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998477.chinese (simplified)'
+0	23:23:38.947	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998478.chinese (traditional)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998478.chinese (traditional)'
+0	23:23:38.989	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998479.czech' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998479.czech'
+0	23:23:39.032	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998480.english' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998480.english'
+0	23:23:39.081	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998481.french' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998481.french'
+0	23:23:39.128	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998482.german' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998482.german'
+0	23:23:39.167	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998483.greek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998483.greek'
+0	23:23:39.208	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998484.hebrew' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998484.hebrew'
+0	23:23:39.250	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998485.hungarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998485.hungarian'
+0	23:23:39.292	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998486.indonesian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998486.indonesian'
+0	23:23:39.334	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998487.italian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998487.italian'
+0	23:23:39.376	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998488.japanese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998488.japanese'
+0	23:23:39.417	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998489.malay' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998489.malay'
+0	23:23:39.458	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998490.polish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998490.polish'
+0	23:23:39.498	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998491.portuguese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998491.portuguese'
+0	23:23:39.843	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998492.russian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998492.russian'
+0	23:23:39.886	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998493.slovenian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998493.slovenian'
+0	23:23:39.929	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998494.spanish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998494.spanish'
+0	23:23:39.994	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998495.tajik' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998495.tajik'
+0	23:23:40.036	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998496.thai' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998496.thai'
+0	23:23:40.076	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998497.turkish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998497.turkish'
+0	23:23:40.117	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998498.uzbek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998498.uzbek'
+0	23:23:40.163	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998499.vietnamese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998499.vietnamese'
+0	23:23:40.203	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998500.arabic' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998500.arabic'
+0	23:23:40.251	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998501.bulgarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998501.bulgarian'
+0	23:23:40.292	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998502.chinese (simplified)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998502.chinese (simplified)'
+0	23:23:40.336	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998503.chinese (traditional)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998503.chinese (traditional)'
+0	23:23:40.377	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998504.czech' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998504.czech'
+0	23:23:40.434	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998505.english' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998505.english'
+0	23:23:40.473	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998506.french' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998506.french'
+0	23:23:40.514	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998507.german' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998507.german'
+0	23:23:40.557	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998508.greek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998508.greek'
+0	23:23:40.596	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998509.hebrew' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998509.hebrew'
+0	23:23:40.635	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998510.hungarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998510.hungarian'
+0	23:23:40.675	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998511.indonesian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998511.indonesian'
+0	23:23:40.715	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998512.italian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998512.italian'
+0	23:23:40.755	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998513.japanese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998513.japanese'
+0	23:23:40.801	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998514.malay' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998514.malay'
+0	23:23:40.842	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998515.polish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998515.polish'
+0	23:23:40.885	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998516.portuguese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998516.portuguese'
+0	23:23:41.029	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998517.russian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998517.russian'
+0	23:23:41.071	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998518.slovenian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998518.slovenian'
+0	23:23:41.112	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998519.spanish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998519.spanish'
+0	23:23:41.156	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998520.tajik' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998520.tajik'
+0	23:23:41.206	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998521.thai' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998521.thai'
+0	23:23:41.246	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998522.turkish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998522.turkish'
+0	23:23:41.296	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998523.uzbek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998523.uzbek'
+0	23:23:41.335	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998524.vietnamese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998524.vietnamese'
+0	23:23:41.386	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998525.arabic' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998525.arabic'
+0	23:23:41.434	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998526.bulgarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998526.bulgarian'
+0	23:23:41.476	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998527.chinese (simplified)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998527.chinese (simplified)'
+0	23:23:41.516	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998528.chinese (traditional)' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998528.chinese (traditional)'
+0	23:23:41.558	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998529.czech' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998529.czech'
+0	23:23:41.603	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998530.english' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998530.english'
+0	23:23:41.646	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998531.french' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998531.french'
+0	23:23:41.688	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998532.german' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998532.german'
+0	23:23:41.730	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998533.greek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998533.greek'
+0	23:23:41.927	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998534.hebrew' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998534.hebrew'
+0	23:23:41.967	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998535.hungarian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998535.hungarian'
+0	23:23:42.007	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998536.indonesian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998536.indonesian'
+0	23:23:42.050	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998537.italian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998537.italian'
+0	23:23:42.091	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998538.japanese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998538.japanese'
+0	23:23:42.132	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998539.malay' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998539.malay'
+0	23:23:42.174	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998540.polish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998540.polish'
+0	23:23:42.218	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998541.portuguese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998541.portuguese'
+0	23:23:42.260	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998542.russian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998542.russian'
+0	23:23:42.302	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998543.slovenian' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998543.slovenian'
+0	23:23:42.349	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998544.spanish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998544.spanish'
+0	23:23:42.397	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998545.tajik' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998545.tajik'
+0	23:23:42.443	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998546.thai' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998546.thai'
+0	23:23:42.485	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998547.turkish' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998547.turkish'
+0	23:23:42.530	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998548.uzbek' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998548.uzbek'
+0	23:23:42.572	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\history\mailbox\1356998549.vietnamese' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\history\mailbox\1356998549.vietnamese'
+0	23:23:42.572	Migration: mailbox folder copied from 'C:\Program Files\OANDA - MetaTrader' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0'
+0	23:23:42.596	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\British Pound\chart01.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\British Pound\chart01.CHR'
+0	23:23:42.611	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\British Pound\chart02.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\British Pound\chart02.CHR'
+0	23:23:42.626	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\British Pound\chart03.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\British Pound\chart03.CHR'
+0	23:23:42.641	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\British Pound\order.wnd' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\British Pound\order.wnd'
+0	23:23:42.659	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\default\chart01.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\default\chart01.CHR'
+0	23:23:42.674	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\default\chart02.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\default\chart02.CHR'
+0	23:23:42.691	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\default\chart03.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\default\chart03.CHR'
+0	23:23:42.706	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\default\chart04.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\default\chart04.CHR'
+0	23:23:42.720	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\default\order.wnd' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\default\order.wnd'
+0	23:23:42.737	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Euro\chart01.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Euro\chart01.CHR'
+0	23:23:42.754	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Euro\chart02.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Euro\chart02.CHR'
+0	23:23:42.782	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Euro\chart03.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Euro\chart03.CHR'
+0	23:23:42.795	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Euro\order.wnd' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Euro\order.wnd'
+0	23:23:42.800	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\lastprofile.ini' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\lastprofile.ini'
+0	23:23:42.817	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Market Overview\chart01.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Market Overview\chart01.CHR'
+0	23:23:42.833	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Market Overview\chart02.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Market Overview\chart02.CHR'
+0	23:23:42.848	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Market Overview\chart03.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Market Overview\chart03.CHR'
+0	23:23:42.864	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Market Overview\chart04.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Market Overview\chart04.CHR'
+0	23:23:42.879	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Market Overview\order.wnd' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Market Overview\order.wnd'
+0	23:23:42.897	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Swiss Franc\chart01.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Swiss Franc\chart01.CHR'
+0	23:23:42.919	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Swiss Franc\chart02.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Swiss Franc\chart02.CHR'
+0	23:23:42.934	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Swiss Franc\chart03.CHR' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Swiss Franc\chart03.CHR'
+0	23:23:42.948	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\profiles\Swiss Franc\order.wnd' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\profiles\Swiss Franc\order.wnd'
+0	23:23:42.948	Migration: profiles folder copied from 'C:\Program Files\OANDA - MetaTrader' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0'
+0	23:23:42.972	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\ADX.tpl' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\ADX.tpl'
+0	23:23:42.987	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\BollingerBands.tpl' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\BollingerBands.tpl'
+0	23:23:43.004	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\Layers.tpl' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\Layers.tpl'
+0	23:23:43.023	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\Momentum.tpl' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\Momentum.tpl'
+0	23:23:43.047	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\OptimizationReport.htm' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\OptimizationReport.htm'
+0	23:23:43.063	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\Popular.tpl' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\Popular.tpl'
+0	23:23:43.085	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\statement.htm' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\statement.htm'
+0	23:23:43.108	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\StatementDetailed.htm' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\StatementDetailed.htm'
+0	23:23:43.129	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\strategytester.htm' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\strategytester.htm'
+0	23:23:43.144	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\Volume.tpl' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\Volume.tpl'
+0	23:23:43.160	Migration: copied from 'C:\Program Files\OANDA - MetaTrader\templates\Williams.tpl' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\templates\Williams.tpl'
+0	23:23:43.160	Migration: templates folder copied from 'C:\Program Files\OANDA - MetaTrader' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0'
+0	23:23:43.201	Migration: data to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0' migration started
+0	23:23:43.201	Migration: experts migration from 'C:\Program Files\OANDA - MetaTrader' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0' started
+0	23:23:43.201	Migration: experts folder updated from 'C:\Program Files\OANDA - MetaTrader\experts' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Experts'
+0	23:23:43.202	Migration: include folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\include' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Include'
+0	23:23:43.202	Migration: indicators folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\indicators' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Indicators'
+0	23:23:43.202	Migration: scripts folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\scripts' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Scripts'
+0	23:23:43.202	Migration: expert logs folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\logs' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Logs'
+0	23:23:43.202	Migration: expert files folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\files' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Files'
+0	23:23:43.203	Migration: libraries folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\libraries' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Libraries'
+0	23:23:43.203	Migration: expert presets folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\presets' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Presets'
+0	23:23:43.203	Migration: expert images folder updated from 'C:\Program Files\OANDA - MetaTrader\experts\images' to 'C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4\Images'
+0	23:23:43.205	Migration: experts migration finished
+0	23:23:43.211	Migration: data migration finished, no virtual folder
+0	23:23:43.213	LiveUpdate: update C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4 folder started
+0	23:23:43.241	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Experts/MACD Sample.mq4 updated
+0	23:23:43.247	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Experts/Moving Average.mq4 updated
+0	23:23:43.259	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/Array.mqh updated
+0	23:23:43.266	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	23:23:43.286	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	23:23:43.306	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	23:23:43.325	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	23:23:43.342	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	23:23:43.360	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	23:23:43.379	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	23:23:43.398	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayString.mqh updated
+0	23:23:43.419	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/List.mqh updated
+0	23:23:43.438	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/Tree.mqh updated
+0	23:23:43.459	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/TreeNode.mqh updated
+0	23:23:43.480	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Canvas/Canvas.mqh updated
+0	23:23:43.502	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	23:23:43.521	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	23:23:43.528	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	23:23:43.547	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	23:23:43.564	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	23:23:43.587	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	23:23:43.605	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	23:23:43.625	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	23:23:43.643	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	23:23:43.650	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	23:23:43.671	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Charts/Chart.mqh updated
+0	23:23:43.696	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/BmpButton.mqh updated
+0	23:23:43.713	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Button.mqh updated
+0	23:23:43.719	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/CheckBox.mqh updated
+0	23:23:43.725	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/CheckGroup.mqh updated
+0	23:23:43.746	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/ComboBox.mqh updated
+0	23:23:43.763	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/DateDropList.mqh updated
+0	23:23:43.786	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/DatePicker.mqh updated
+0	23:23:43.805	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Defines.mqh updated
+0	23:23:43.824	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Dialog.mqh updated
+0	23:23:43.845	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Edit.mqh updated
+0	23:23:43.862	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Label.mqh updated
+0	23:23:43.869	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/ListView.mqh updated
+0	23:23:43.886	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Panel.mqh updated
+0	23:23:43.904	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Picture.mqh updated
+0	23:23:43.921	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/RadioButton.mqh updated
+0	23:23:43.941	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/RadioGroup.mqh updated
+0	23:23:43.960	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Rect.mqh updated
+0	23:23:43.980	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	23:23:43.994	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	23:23:44.000	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Close.bmp updated
+0	23:23:44.018	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	23:23:44.032	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	23:23:44.044	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	23:23:44.050	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	23:23:44.055	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	23:23:44.061	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Down.bmp updated
+0	23:23:44.067	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	23:23:44.073	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	23:23:44.079	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	23:23:44.084	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	23:23:44.090	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DropOff.bmp updated
+0	23:23:44.097	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DropOn.bmp updated
+0	23:23:44.103	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	23:23:44.111	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	23:23:44.116	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	23:23:44.133	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	23:23:44.139	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	23:23:44.147	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	23:23:44.152	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Left.bmp updated
+0	23:23:44.167	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	23:23:44.174	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	23:23:44.194	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	23:23:44.199	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	23:23:44.206	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Restore.bmp updated
+0	23:23:44.221	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	23:23:44.228	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	23:23:44.244	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	23:23:44.261	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Right.bmp updated
+0	23:23:44.268	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	23:23:44.277	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	23:23:44.284	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	23:23:44.300	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	23:23:44.315	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	23:23:44.321	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	23:23:44.327	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	23:23:44.333	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	23:23:44.342	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Turn.bmp updated
+0	23:23:44.359	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	23:23:44.364	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	23:23:44.373	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Up.bmp updated
+0	23:23:44.378	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	23:23:44.393	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	23:23:44.410	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	23:23:44.416	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	23:23:44.422	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Scrolls.mqh updated
+0	23:23:44.440	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/SpinEdit.mqh updated
+0	23:23:44.467	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/TimePicker.mqh updated
+0	23:23:44.486	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Wnd.mqh updated
+0	23:23:44.508	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/WndClient.mqh updated
+0	23:23:44.525	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/WndContainer.mqh updated
+0	23:23:44.543	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/WndObj.mqh updated
+0	23:23:44.566	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/File.mqh updated
+0	23:23:44.583	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/FileBin.mqh updated
+0	23:23:44.600	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/FilePipe.mqh updated
+0	23:23:44.621	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/FileTxt.mqh updated
+0	23:23:44.629	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	23:23:44.648	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Custom.mqh updated
+0	23:23:44.653	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Indicator.mqh updated
+0	23:23:44.678	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Indicators.mqh updated
+0	23:23:44.700	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Oscilators.mqh updated
+0	23:23:44.717	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Series.mqh updated
+0	23:23:44.734	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	23:23:44.754	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Trend.mqh updated
+0	23:23:44.774	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Volumes.mqh updated
+0	23:23:44.791	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/MovingAverages.mqh updated
+0	23:23:44.809	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Object.mqh updated
+0	23:23:44.826	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/stderror.mqh updated
+0	23:23:44.850	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/stdlib.mqh updated
+0	23:23:44.868	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/StdLibErr.mqh updated
+0	23:23:44.889	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Strings/String.mqh updated
+0	23:23:44.911	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Tools/DateTime.mqh updated
+0	23:23:44.930	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/WinUser32.mqh updated
+0	23:23:44.949	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Accelerator.mq4 updated
+0	23:23:44.955	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Accumulation.mq4 updated
+0	23:23:44.974	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Alligator.mq4 updated
+0	23:23:44.981	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/ATR.mq4 updated
+0	23:23:44.999	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Awesome.mq4 updated
+0	23:23:45.017	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Bands.mq4 updated
+0	23:23:45.023	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Bears.mq4 updated
+0	23:23:45.029	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Bulls.mq4 updated
+0	23:23:45.049	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/CCI.mq4 updated
+0	23:23:45.067	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	23:23:45.090	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	23:23:45.108	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	23:23:45.115	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	23:23:45.122	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Ichimoku.mq4 updated
+0	23:23:45.143	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/iExposure.mq4 updated
+0	23:23:45.166	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/MACD.mq4 updated
+0	23:23:45.187	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Momentum.mq4 updated
+0	23:23:45.204	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/OsMA.mq4 updated
+0	23:23:45.226	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Parabolic.mq4 updated
+0	23:23:45.233	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/RSI.mq4 updated
+0	23:23:45.258	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Stochastic.mq4 updated
+0	23:23:45.278	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/ZigZag.mq4 updated
+0	23:23:45.303	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Libraries/stdlib.mq4 updated
+0	23:23:45.333	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	23:23:45.357	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	23:23:45.374	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSample.vcxproj updated
+0	23:23:45.382	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	23:23:45.393	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	23:23:45.497	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	23:23:45.516	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	23:23:45.522	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/PeriodConverter.mq4 updated
+0	23:23:45.525	LiveUpdate: update C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4 folder finished
+0	23:23:45.465	LiveUpdate: update C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4 folder started
+0	23:23:45.497	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Experts/MACD Sample.mq4 updated
+0	23:23:45.503	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Experts/Moving Average.mq4 updated
+0	23:23:45.512	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/Array.mqh updated
+0	23:23:45.518	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayChar.mqh updated
+0	23:23:45.539	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayDouble.mqh updated
+0	23:23:45.557	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayFloat.mqh updated
+0	23:23:45.575	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayInt.mqh updated
+0	23:23:45.593	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayLong.mqh updated
+0	23:23:45.611	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayObj.mqh updated
+0	23:23:45.630	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayShort.mqh updated
+0	23:23:45.648	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/ArrayString.mqh updated
+0	23:23:45.666	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/List.mqh updated
+0	23:23:45.684	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/Tree.mqh updated
+0	23:23:45.700	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Arrays/TreeNode.mqh updated
+0	23:23:45.720	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Canvas/Canvas.mqh updated
+0	23:23:45.739	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObject.mqh updated
+0	23:23:45.760	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectPanel.mqh updated
+0	23:23:45.766	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsArrows.mqh updated
+0	23:23:45.785	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsBmpControls.mqh updated
+0	23:23:45.803	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsChannels.mqh updated
+0	23:23:45.824	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsFibo.mqh updated
+0	23:23:45.842	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsGann.mqh updated
+0	23:23:45.860	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsLines.mqh updated
+0	23:23:45.881	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsShapes.mqh updated
+0	23:23:45.887	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/ChartObjects/ChartObjectsTxtControls.mqh updated
+0	23:23:45.909	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Charts/Chart.mqh updated
+0	23:23:45.930	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/BmpButton.mqh updated
+0	23:23:45.947	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Button.mqh updated
+0	23:23:45.953	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/CheckBox.mqh updated
+0	23:23:45.960	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/CheckGroup.mqh updated
+0	23:23:45.978	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/ComboBox.mqh updated
+0	23:23:45.995	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/DateDropList.mqh updated
+0	23:23:46.015	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/DatePicker.mqh updated
+0	23:23:46.035	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Defines.mqh updated
+0	23:23:46.057	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Dialog.mqh updated
+0	23:23:46.077	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Edit.mqh updated
+0	23:23:46.095	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Label.mqh updated
+0	23:23:46.101	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/ListView.mqh updated
+0	23:23:46.119	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Panel.mqh updated
+0	23:23:46.125	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Picture.mqh updated
+0	23:23:46.131	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/RadioButton.mqh updated
+0	23:23:46.137	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/RadioGroup.mqh updated
+0	23:23:46.156	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Rect.mqh updated
+0	23:23:46.176	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CheckBoxOff.bmp updated
+0	23:23:46.182	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CheckBoxOn.bmp updated
+0	23:23:46.191	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Close.bmp updated
+0	23:23:46.198	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CloseDisable.bmp updated
+0	23:23:46.204	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CloseOff.bmp updated
+0	23:23:46.210	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/CloseOn.bmp updated
+0	23:23:46.216	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DateDropOff.bmp updated
+0	23:23:46.221	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DateDropOn.bmp updated
+0	23:23:46.227	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Down.bmp updated
+0	23:23:46.232	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DownDisable.bmp updated
+0	23:23:46.237	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DownSmall.bmp updated
+0	23:23:46.243	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DownTransp.bmp updated
+0	23:23:46.250	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/down_smoll.bmp updated
+0	23:23:46.256	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DropOff.bmp updated
+0	23:23:46.262	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/DropOn.bmp updated
+0	23:23:46.267	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ExpandDisable.bmp updated
+0	23:23:46.273	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ExpandOff.bmp updated
+0	23:23:46.278	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ExpandOn.bmp updated
+0	23:23:46.294	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/HelpDisable.bmp updated
+0	23:23:46.300	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/HelpOff.bmp updated
+0	23:23:46.308	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/HelpOn.bmp updated
+0	23:23:46.313	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Left.bmp updated
+0	23:23:46.319	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/LeftDisable.bmp updated
+0	23:23:46.326	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/LeftTransp.bmp updated
+0	23:23:46.331	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RadioButtonOff.bmp updated
+0	23:23:46.338	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RadioButtonOn.bmp updated
+0	23:23:46.345	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Restore.bmp updated
+0	23:23:46.351	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RestoreDisable.bmp updated
+0	23:23:46.360	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RestoreOff.bmp updated
+0	23:23:46.366	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RestoreOn.bmp updated
+0	23:23:46.373	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Right.bmp updated
+0	23:23:46.378	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RightDisable.bmp updated
+0	23:23:46.384	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/RightTransp.bmp updated
+0	23:23:46.390	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/SpinDec.bmp updated
+0	23:23:46.395	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/SpinInc.bmp updated
+0	23:23:46.401	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbHor.bmp updated
+0	23:23:46.407	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbHorDisable.bmp updated
+0	23:23:46.414	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbVert.bmp updated
+0	23:23:46.421	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/ThumbVertDisable.bmp updated
+0	23:23:46.426	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Turn.bmp updated
+0	23:23:46.432	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/TurnOff.bmp updated
+0	23:23:46.437	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/TurnOn.bmp updated
+0	23:23:46.442	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/Up.bmp updated
+0	23:23:46.447	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/UpDisable.bmp updated
+0	23:23:46.453	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/UpSmall.bmp updated
+0	23:23:46.459	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/UpTransp.bmp updated
+0	23:23:46.465	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/res/up_smoll.bmp updated
+0	23:23:46.470	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Scrolls.mqh updated
+0	23:23:46.487	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/SpinEdit.mqh updated
+0	23:23:46.503	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/TimePicker.mqh updated
+0	23:23:46.524	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/Wnd.mqh updated
+0	23:23:46.542	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/WndClient.mqh updated
+0	23:23:46.560	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/WndContainer.mqh updated
+0	23:23:46.577	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Controls/WndObj.mqh updated
+0	23:23:46.596	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/File.mqh updated
+0	23:23:46.617	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/FileBin.mqh updated
+0	23:23:46.634	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/FilePipe.mqh updated
+0	23:23:46.651	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Files/FileTxt.mqh updated
+0	23:23:46.659	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/BillWilliams.mqh updated
+0	23:23:46.676	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Custom.mqh updated
+0	23:23:46.682	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Indicator.mqh updated
+0	23:23:46.687	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Indicators.mqh updated
+0	23:23:46.709	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Oscilators.mqh updated
+0	23:23:46.726	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Series.mqh updated
+0	23:23:46.731	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/TimeSeries.mqh updated
+0	23:23:46.748	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Trend.mqh updated
+0	23:23:46.787	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Indicators/Volumes.mqh updated
+0	23:23:46.804	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/MovingAverages.mqh updated
+0	23:23:46.840	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Object.mqh updated
+0	23:23:46.846	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/stderror.mqh updated
+0	23:23:46.869	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/stdlib.mqh updated
+0	23:23:46.874	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/StdLibErr.mqh updated
+0	23:23:46.881	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Strings/String.mqh updated
+0	23:23:46.902	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/Tools/DateTime.mqh updated
+0	23:23:46.920	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Include/WinUser32.mqh updated
+0	23:23:46.939	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Accelerator.mq4 updated
+0	23:23:46.945	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Accumulation.mq4 updated
+0	23:23:46.950	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Alligator.mq4 updated
+0	23:23:46.956	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/ATR.mq4 updated
+0	23:23:46.961	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Awesome.mq4 updated
+0	23:23:46.967	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Bands.mq4 updated
+0	23:23:46.972	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Bears.mq4 updated
+0	23:23:46.978	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Bulls.mq4 updated
+0	23:23:46.983	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/CCI.mq4 updated
+0	23:23:46.989	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Custom Moving Averages.mq4 updated
+0	23:23:46.997	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Examples/SimplePanel/PanelDialog.mqh updated
+0	23:23:47.015	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Examples/SimplePanel/SimplePanel.mq4 updated
+0	23:23:47.021	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Heiken Ashi.mq4 updated
+0	23:23:47.027	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Ichimoku.mq4 updated
+0	23:23:47.046	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/iExposure.mq4 updated
+0	23:23:47.064	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/MACD.mq4 updated
+0	23:23:47.070	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Momentum.mq4 updated
+0	23:23:47.075	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/OsMA.mq4 updated
+0	23:23:47.081	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Parabolic.mq4 updated
+0	23:23:47.087	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/RSI.mq4 updated
+0	23:23:47.104	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/Stochastic.mq4 updated
+0	23:23:47.123	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Indicators/ZigZag.mq4 updated
+0	23:23:47.141	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Libraries/stdlib.mq4 updated
+0	23:23:47.166	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSample.cpp updated
+0	23:23:47.186	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSample.def updated
+0	23:23:47.192	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSample.vcxproj updated
+0	23:23:47.198	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/DLLSampleTester.mq4 updated
+0	23:23:47.207	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/DLL/Libraries/DLLSample.dll updated
+0	23:23:47.305	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/Pipes/PipeClient.mq4 updated
+0	23:23:47.315	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/Examples/Pipes/PipeClientPure.mq4 updated
+0	23:23:47.323	LiveUpdate: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4/Scripts/PeriodConverter.mq4 updated
+0	23:23:47.327	LiveUpdate: update C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0\MQL4 folder finished
+0	23:23:45.804	OANDA - MT4 build 1090 started (OANDA Corporation)
+0	23:23:45.805	Windows 10 Home (X86 based PC), IE 11.00, UAC, 4 x Intel Atom  Z3735F @ 1.33GHz, RAM: 609 / 1976 Mb, HDD: 12478 / 29042 Mb, GMT+09:00
+0	23:23:45.805	Data Folder: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0
+0	23:23:47.596	Sources recompilation started
+0	23:24:45.604	Sources recompilation finished (28 compiled in 58016 msec)
+0	23:26:44.121	'6234196': login on OANDA-Japan Practice
+0	23:26:46.127	'6234196': previous successful authorization performed from 106.133.164.57
+0	23:26:47.701	'6234196': ping to current access point OANDA-MT4 Practice JP is 203.56 ms
+0	23:30:05.172	OANDA - MT4 build 1090 stopped
+0	23:30:35.840	OANDA - MT4 build 1090 started (OANDA Corporation)
+0	23:30:35.841	Windows 10 Home (X86 based PC), IE 11.00, UAC, 4 x Intel Atom  Z3735F @ 1.33GHz, RAM: 673 / 1976 Mb, HDD: 12466 / 29042 Mb, GMT+09:00
+0	23:30:35.841	Data Folder: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0
+0	23:30:40.366	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 203.56 ms)
+0	23:30:41.933	'6234196': previous successful authorization performed from 101.141.17.171
+0	23:32:13.207	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 203.56 ms)
+0	23:32:14.758	'6234196': previous successful authorization performed from 101.141.17.171
+0	23:32:30.583	Automated trading enabled
+2	23:32:40.844	Custom indicator SpanModel USDJPY,H4: loaded successfully
+2	23:32:40.896	Custom indicator SuperBolingerMTF USDJPY,H4: loaded successfully
+2	23:32:40.946	Custom indicator SMTSignalVisualizer USDJPY,H4: loaded successfully
+2	23:32:41.045	Expert SpanModelTrader USDJPY,H4: loaded successfully
+2	23:32:42.278	Expert SpanModelTrader USDJPY,H4: removed
+2	23:33:17.065	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	23:33:19.359	Expert SpanModelTrader USDJPY,M5: removed

@@ -1,0 +1,72 @@
+0	13:12:23.127	OANDA - MT4 build 1090 started (OANDA Corporation)
+0	13:12:23.128	Windows 10 Home (X86 based PC), IE 11.00, UAC, 4 x Intel Atom  Z3735F @ 1.33GHz, RAM: 604 / 1976 Mb, HDD: 12760 / 29042 Mb, GMT+09:00
+0	13:12:23.128	Data Folder: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0
+2	13:12:29.035	Custom indicator SpanModel USDJPY,M5: loaded successfully
+2	13:12:29.093	Custom indicator SuperBolingerMTF USDJPY,M5: loaded successfully
+2	13:12:29.143	Custom indicator SMTSignalVisualizer USDJPY,M5: loaded successfully
+2	13:12:29.257	Expert SpanModelTrader USDJPY,M5: loaded successfully
+0	13:12:31.048	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 177.73 ms)
+0	13:12:32.867	'6234196': previous successful authorization performed from 101.141.17.171
+0	13:12:34.422	'6234196': ping to current access point OANDA-MT4 Practice JP is 177.79 ms
+2	13:17:36.786	Expert SpanModelTrader USDJPY,M5: removed
+2	13:17:36.901	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	13:17:47.158	Expert SpanModelTrader USDJPY,M5: removed
+2	13:17:47.270	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	13:20:46.680	Expert SpanModelTrader USDJPY,M5: removed
+2	13:20:46.789	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	16:52:41.837	Expert SpanModelTrader USDJPY,M5: removed
+2	16:52:42.020	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	16:55:47.547	Expert SpanModelTrader USDJPY,M5: removed
+2	16:55:47.657	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	17:02:18.181	Expert SpanModelTrader USDJPY,M5: removed
+2	17:02:18.296	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	17:04:39.188	Expert SpanModelTrader USDJPY,M5: removed
+2	17:04:39.292	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	21:42:06.729	Expert SpanModelTrader USDJPY,M5: removed
+2	21:42:06.851	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	22:10:56.003	Expert SpanModelTrader USDJPY,M5: removed
+2	22:10:56.112	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	22:14:01.247	Expert SpanModelTrader USDJPY,M5: removed
+2	22:14:01.361	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	22:17:46.667	Expert SpanModelTrader USDJPY,M5: removed
+2	22:17:46.782	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	22:39:11.589	Expert SpanModelTrader USDJPY,M5: removed
+2	22:39:11.702	Expert SpanModelTrader USDJPY,M5: loaded successfully
+0	23:00:09.955	Notifications: 'Test message from 'MT4_KC', 'OANDA Corporation'' sent to 'E09CE57F'
+2	23:06:35.511	Expert SpanModelTrader USDJPY,M5: removed
+2	23:06:35.616	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	23:08:11.144	Expert SpanModelTrader USDJPY,M5: removed
+2	23:08:11.257	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	23:11:27.812	Expert SpanModelTrader USDJPY,M5: removed
+2	23:11:27.928	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	23:13:52.007	Expert SpanModelTrader USDJPY,M5: removed
+2	23:13:52.128	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	23:14:37.145	Expert SpanModelTrader USDJPY,M5: removed
+2	23:14:37.266	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	23:17:13.133	Expert SpanModelTrader USDJPY,M5: removed
+2	23:17:13.257	Expert SpanModelTrader USDJPY,M5: loaded successfully
+1	23:29:45.253	'6234196': connect failed [回線不通！]
+1	23:30:19.918	MQL5.community: authorization failed
+1	23:30:51.880	MQL5.community: authorization failed
+1	23:31:23.949	MQL5.community: authorization failed
+1	23:31:55.923	MQL5.community: authorization failed
+1	23:32:27.975	MQL5.community: authorization failed
+1	23:32:59.953	MQL5.community: authorization failed
+1	23:33:31.899	MQL5.community: authorization failed
+1	23:34:03.880	MQL5.community: authorization failed
+1	23:34:35.930	MQL5.community: authorization failed
+1	23:35:07.931	MQL5.community: authorization failed
+0	23:35:24.820	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 177.79 ms)
+0	23:35:26.476	'6234196': previous successful authorization performed from 101.141.17.171
+0	23:35:28.258	'6234196': ping to current access point OANDA-MT4 Practice JP is 225.72 ms
+2	23:35:30.492	Expert SpanModelTrader GBPJPY,H1: loaded successfully
+2	23:35:32.378	Expert SpanModelTrader GBPJPY,H1: removed
+2	23:35:41.484	Custom indicator SpanModel GBPJPY,H1: loaded successfully
+2	23:35:41.537	Custom indicator SuperBolingerMTF GBPJPY,H1: loaded successfully
+2	23:35:41.584	Custom indicator SMTSignalVisualizer GBPJPY,H1: loaded successfully
+2	23:35:41.684	Expert SpanModelTrader GBPJPY,H1: loaded successfully
+2	23:35:42.548	Expert SpanModelTrader GBPJPY,H1: removed
+2	23:35:53.169	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+1	23:38:04.659	'6234196': connect failed [回線不通！]
+0	23:42:17.461	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 225.72 ms)
+0	23:42:18.825	'6234196': previous successful authorization performed from 106.133.171.168

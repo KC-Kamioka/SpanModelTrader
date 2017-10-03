@@ -1,0 +1,21 @@
+0	08:13:54.575	OANDA - MT4 build 1090 started (OANDA Corporation)
+0	08:13:54.576	Windows 10 Home (X86 based PC), IE 11.00, UAC, 4 x Intel Atom  Z3735F @ 1.33GHz, RAM: 663 / 1976 Mb, HDD: 12799 / 29042 Mb, GMT+09:00
+0	08:13:54.576	Data Folder: C:\Users\KC\AppData\Roaming\MetaQuotes\Terminal\71808ACDDF4589A555C107AF1E5AEBA0
+2	08:13:59.835	Custom indicator SpanModel USDJPY,M5: loaded successfully
+2	08:13:59.912	Custom indicator SuperBolingerMTF USDJPY,M5: loaded successfully
+2	08:13:59.969	Custom indicator SMTSignalVisualizer USDJPY,M5: loaded successfully
+2	08:14:00.103	Expert SpanModelTrader USDJPY,M5: loaded successfully
+0	08:14:02.206	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 181.59 ms)
+0	08:14:03.886	'6234196': previous successful authorization performed from 60.56.168.225
+0	08:14:05.291	'6234196': ping to current access point OANDA-MT4 Practice JP is 183.67 ms
+2	08:29:13.927	Custom indicator SpanModel GBPJPY,M5: loaded successfully
+2	08:29:14.090	Custom indicator SuperBolingerMTF GBPJPY,M5: loaded successfully
+2	08:29:14.243	Custom indicator SMTSignalVisualizer GBPJPY,M5: loaded successfully
+2	08:29:14.645	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+0	09:35:11.813	'6234196': order buy market 0.10 USDJPY sl: 111.710 tp: 0.000
+0	09:35:12.322	Trades: use hosting service to speed up the execution - 20.26 ms via 'MQL5 New York 5 (MQL5 Ltd.)' instead of 183.67 ms
+0	09:35:12.322	'6234196': order was opened : #156620913 buy 0.10 USDJPY at 112.708 sl: 111.710 tp: 0.000
+0	12:30:39.436	'6234196': close order #156620913 buy 0.10 USDJPY at 112.708 sl: 111.710 tp: 0.000 at price 0.000
+0	12:30:39.974	'6234196': order #156620913 buy 0.10 USDJPY at 112.708 sl: 111.710 tp: 0.000 closed at price 112.846
+0	19:15:06.300	'6234196': order sell market 0.10 GBPJPY sl: 151.056 tp: 0.000
+0	19:15:06.768	'6234196': order was opened : #156635558 sell 0.10 GBPJPY at 150.062 sl: 151.056 tp: 0.000

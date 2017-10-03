@@ -1,0 +1,83 @@
+1	02:44:08.530	'6234196': ping failed
+1	02:44:08.677	'6234196': connect failed [âÒê¸ïsí ÅI]
+0	02:55:47.395	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 225.72 ms)
+0	02:55:48.775	'6234196': previous successful authorization performed from 101.141.17.171
+0	02:55:50.170	'6234196': ping to current access point OANDA-MT4 Practice JP is 180.97 ms
+2	08:17:28.067	Expert SpanModelTrader USDJPY,M5: removed
+2	08:17:28.255	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	08:17:28.288	Expert SpanModelTrader GBPJPY,M5: removed
+2	08:17:28.385	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	08:18:25.162	Expert SpanModelTrader USDJPY,M5: removed
+2	08:18:25.269	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	08:18:25.296	Expert SpanModelTrader GBPJPY,M5: removed
+2	08:18:25.393	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	11:18:21.306	Expert SpanModelTrader USDJPY,M5: removed
+2	11:18:21.316	Custom indicator SpanModel USDJPY,M5: removed
+2	11:18:21.323	Custom indicator SuperBolingerMTF USDJPY,M5: removed
+2	11:18:21.329	Custom indicator SMTSignalVisualizer USDJPY,M5: removed
+2	11:18:28.666	Expert SpanModelTrader GBPJPY,M5: removed
+2	11:18:28.863	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	14:55:17.687	Expert SpanModelTrader GBPJPY,M5: removed
+2	14:55:17.867	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	20:52:10.081	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:52:10.195	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	20:52:51.348	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:52:51.463	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	20:53:49.012	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:53:49.131	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	20:55:21.521	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:55:21.644	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	20:55:51.241	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:55:51.354	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	20:57:47.902	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:57:48.032	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	20:58:57.258	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:58:57.374	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:06:53.270	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:06:53.385	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:08:30.667	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:08:30.786	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:14:13.350	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:14:13.464	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:15:12.401	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:15:12.532	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:15:54.302	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:15:54.426	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:17:46.734	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:17:46.851	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:18:40.776	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:18:40.905	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:19:09.702	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:19:09.813	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:19:35.315	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:19:35.430	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:21:48.045	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:21:48.159	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:22:27.787	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:22:27.909	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:22:49.336	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:22:49.461	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:24:49.067	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:24:49.189	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:25:28.642	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:25:28.757	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:26:11.627	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:26:11.748	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:26:52.986	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:26:53.108	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:27:17.861	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:27:17.987	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:42:57.918	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:42:58.029	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	21:43:41.321	Expert SpanModelTrader GBPJPY,M5: removed
+2	21:43:41.432	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	22:37:49.012	Expert SpanModelTrader GBPJPY,M5: removed
+2	22:37:49.122	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	22:39:54.377	Expert SpanModelTrader GBPJPY,M5: removed
+2	22:39:54.494	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	22:42:12.285	Expert SpanModelTrader GBPJPY,M5: removed
+2	22:42:12.408	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	22:42:53.396	Expert SpanModelTrader GBPJPY,M5: removed
+2	22:42:53.513	Expert SpanModelTrader GBPJPY,M5: loaded successfully
+2	22:47:40.941	Expert SpanModelTrader GBPJPY,M5: removed
+2	22:47:41.056	Expert SpanModelTrader GBPJPY,M5: loaded successfully

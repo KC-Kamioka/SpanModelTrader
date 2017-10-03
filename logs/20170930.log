@@ -1,0 +1,19 @@
+1	06:56:54.204	'6234196': connect failed [âÒê¸ïsí ÅI]
+0	08:43:44.990	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: n/a)
+0	08:43:47.862	'6234196': previous successful authorization performed from 60.56.168.225
+0	08:43:47.896	'6234196': ping to current access point OANDA-MT4 Practice JP is n/a
+1	09:08:29.332	'6234196': ping failed
+0	09:08:30.005	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: n/a)
+0	09:08:31.613	'6234196': previous successful authorization performed from 60.56.168.225
+0	09:08:32.949	'6234196': ping to current access point OANDA-MT4 Practice JP is 181.59 ms
+1	09:22:32.508	'6234196': ping failed
+0	09:22:33.224	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 181.59 ms)
+0	09:22:34.575	'6234196': previous successful authorization performed from 60.56.168.225
+2	20:53:25.924	Custom indicator SpanModel USDJPY,M5: loaded successfully
+2	20:53:26.027	Custom indicator SuperBolingerMTF USDJPY,M5: loaded successfully
+2	20:53:26.092	Custom indicator SMTSignalVisualizer USDJPY,M5: loaded successfully
+2	20:53:26.302	Expert SpanModelTrader USDJPY,M5: loaded successfully
+2	20:53:36.228	Expert SpanModelTrader GBPJPY,M5: removed
+2	20:53:36.237	Custom indicator SpanModel GBPJPY,M5: removed
+2	20:53:36.245	Custom indicator SuperBolingerMTF GBPJPY,M5: removed
+2	20:53:36.252	Custom indicator SMTSignalVisualizer GBPJPY,M5: removed
