@@ -1,19 +1,54 @@
-1	06:56:54.204	'6234196': connect failed [回線不通！]
-0	08:43:44.990	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: n/a)
-0	08:43:47.862	'6234196': previous successful authorization performed from 60.56.168.225
-0	08:43:47.896	'6234196': ping to current access point OANDA-MT4 Practice JP is n/a
-1	09:08:29.332	'6234196': ping failed
-0	09:08:30.005	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: n/a)
-0	09:08:31.613	'6234196': previous successful authorization performed from 60.56.168.225
-0	09:08:32.949	'6234196': ping to current access point OANDA-MT4 Practice JP is 181.59 ms
-1	09:22:32.508	'6234196': ping failed
-0	09:22:33.224	'6234196': login on OANDA-Japan Practice through OANDA-MT4 Practice JP (ping: 181.59 ms)
-0	09:22:34.575	'6234196': previous successful authorization performed from 60.56.168.225
-2	20:53:25.924	Custom indicator SpanModel USDJPY,M5: loaded successfully
-2	20:53:26.027	Custom indicator SuperBolingerMTF USDJPY,M5: loaded successfully
-2	20:53:26.092	Custom indicator SMTSignalVisualizer USDJPY,M5: loaded successfully
-2	20:53:26.302	Expert SpanModelTrader USDJPY,M5: loaded successfully
-2	20:53:36.228	Expert SpanModelTrader GBPJPY,M5: removed
-2	20:53:36.237	Custom indicator SpanModel GBPJPY,M5: removed
-2	20:53:36.245	Custom indicator SuperBolingerMTF GBPJPY,M5: removed
-2	20:53:36.252	Custom indicator SMTSignalVisualizer GBPJPY,M5: removed
+0	00:00:03.381	SpanModelTrader GBPJPY,M5: 201790291800000000     2017.09.29 18:00    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	20:53:25.924	Custom indicator SpanModel USDJPY,M5: loaded successfully
+0	20:53:26.027	Custom indicator SuperBolingerMTF USDJPY,M5: loaded successfully
+0	20:53:26.092	Custom indicator SMTSignalVisualizer USDJPY,M5: loaded successfully
+0	20:53:26.302	Expert SpanModelTrader USDJPY,M5: loaded successfully
+0	20:53:26.374	SpanModel USDJPY,M5: initialized
+0	20:53:26.420	SuperBolingerMTF USDJPY,M5: initialized
+0	20:53:26.454	SMTSignalVisualizer USDJPY,M5: initialized
+0	20:53:27.105	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    ポジションを決済しました。
+0	20:53:27.105	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	20:53:27.105	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO                                                                                        00                    EAを初期化しました。
+0	20:53:27.262	SpanModelTrader USDJPY,M5: 201790292355001319     2017.09.22 19:00    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	20:53:27.455	SpanModelTrader USDJPY,M5: 201790292355001050     2017.09.25 19:15    INFO        TrendFollow       Position                                Sell                  00                    シグナルが点灯しました。
+0	20:53:27.455	SpanModelTrader USDJPY,M5: 201790292355001050     2017.09.25 19:15    INFO        TrendFollow       Position                                                      00                    ダミーポジションを取得しました。
+0	20:53:27.457	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    ダミーポジションを決済しました。
+0	20:53:27.457	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	20:53:27.457	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO                                                                                        00                    EAを初期化しました。
+0	20:53:27.458	SpanModelTrader USDJPY,M5: 201790292355000897     2017.09.26 08:00    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	20:53:27.466	SpanModelTrader USDJPY,M5: 201790292355000796     2017.09.26 16:25    INFO        TrendFollow       Position                                Buy                   00                    シグナルが点灯しました。
+0	20:53:27.466	SpanModelTrader USDJPY,M5: 201790292355000796     2017.09.26 16:25    INFO        TrendFollow       Position                                                      00                    ダミーポジションを取得しました。
+0	20:53:27.468	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    ダミーポジションを決済しました。
+0	20:53:27.468	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	20:53:27.469	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO                                                                                        00                    EAを初期化しました。
+0	20:53:27.470	SpanModelTrader USDJPY,M5: 201790292355000633     2017.09.27 06:00    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	20:53:27.474	SpanModelTrader USDJPY,M5: 201790292355000596     2017.09.27 09:05    INFO        TrendFollow       Position                                Buy                   00                    シグナルが点灯しました。
+0	20:53:27.474	SpanModelTrader USDJPY,M5: 201790292355000596     2017.09.27 09:05    INFO        TrendFollow       Position                                                      00                    ダミーポジションを取得しました。
+0	20:53:27.479	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    ダミーポジションを決済しました。
+0	20:53:27.479	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	20:53:27.479	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO                                                                                        00                    EAを初期化しました。
+0	20:53:27.480	SpanModelTrader USDJPY,M5: 201790292355000489     2017.09.27 18:00    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	20:53:27.491	SpanModelTrader USDJPY,M5: 201790292355000345     2017.09.28 07:05    INFO        TrendFollow       Position                                Buy                   00                    シグナルが点灯しました。
+0	20:53:27.491	SpanModelTrader USDJPY,M5: 201790292355000345     2017.09.28 07:05    INFO        TrendFollow       Position                                                      00                    ダミーポジションを取得しました。
+0	20:53:27.493	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    ダミーポジションを決済しました。
+0	20:53:27.493	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	20:53:27.493	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO                                                                                        00                    EAを初期化しました。
+0	20:53:27.494	SpanModelTrader USDJPY,M5: 201790292355000289     2017.09.28 13:05    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	20:53:27.499	SpanModelTrader USDJPY,M5: 201790292355000228     2017.09.28 19:55    INFO        TrendFollow       Position                                Sell                  00                    シグナルが点灯しました。
+0	20:53:27.499	SpanModelTrader USDJPY,M5: 201790292355000228     2017.09.28 19:55    INFO        TrendFollow       Position                                                      00                    ダミーポジションを取得しました。
+0	20:53:27.504	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    ダミーポジションを決済しました。
+0	20:53:27.505	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	20:53:27.505	SpanModelTrader USDJPY,M5: 201790292355000000     2017.09.29 23:55    INFO                                                                                        00                    EAを初期化しました。
+0	20:53:27.505	SpanModelTrader USDJPY,M5: 201790292355000165     2017.09.29 04:00    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	20:53:27.573	SpanModelTrader USDJPY,M5: initialized
+0	20:53:36.197	SpanModelTrader GBPJPY,M5: uninit reason 4
+0	20:53:36.197	SpanModelTrader GBPJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    ポジションを決済しました。
+0	20:53:36.198	SpanModelTrader GBPJPY,M5: 201790292355000000     2017.09.29 23:55    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	20:53:36.198	SpanModelTrader GBPJPY,M5: 201790292355000000     2017.09.29 23:55    INFO                                                                                        00                    EAを初期化しました。
+0	20:53:36.228	Expert SpanModelTrader GBPJPY,M5: removed
+0	20:53:36.231	SpanModel GBPJPY,M5: uninit reason 9
+0	20:53:36.231	SuperBolingerMTF GBPJPY,M5: uninit reason 9
+0	20:53:36.231	SMTSignalVisualizer GBPJPY,M5: uninit reason 9
+0	20:53:36.237	Custom indicator SpanModel GBPJPY,M5: removed
+0	20:53:36.245	Custom indicator SuperBolingerMTF GBPJPY,M5: removed
+0	20:53:36.252	Custom indicator SMTSignalVisualizer GBPJPY,M5: removed

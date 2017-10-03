@@ -1,16 +1,17 @@
-0	00:00:01.428	'6234196': order buy market 0.10 GBPJPY sl: 150.564 tp: 0.000
-0	00:00:01.759	Trades: use hosting service to speed up the execution - 20.26 ms via 'MQL5 New York 5 (MQL5 Ltd.)' instead of 180.97 ms
-0	00:00:01.760	'6234196': order was opened : #156563694 buy 0.10 GBPJPY at 151.565 sl: 150.564 tp: 0.000
-0	00:00:03.555	Notifications: 'order opened #156563694 buy 0.10 GBPJPY at 151.565 sl: 150.564' sent to 'E09CE57F'
-0	01:40:05.058	'6234196': close order #156563694 buy 0.10 GBPJPY at 151.565 sl: 150.564 tp: 0.000 at price 0.000
-0	01:40:05.374	'6234196': order #156563694 buy 0.10 GBPJPY at 151.565 sl: 150.564 tp: 0.000 closed at price 151.303
-0	01:40:06.620	Notifications: 'order #156563694 buy 0.10 GBPJPY at 151.565 closed at price 151.303, profit: -2 620 JPY' sent to 'E09CE57F'
-0	17:35:03.140	'6234196': order sell market 0.10 GBPJPY sl: 151.495 tp: 0.000
-0	17:35:03.510	'6234196': order was opened : #156587512 sell 0.10 GBPJPY at 150.492 sl: 151.495 tp: 0.000
-1	17:35:48.358	Notifications: failed send request [0] send request failed [12002]
-1	17:35:48.358	Notifications: 'order opened #156587512 sell 0.10 GBPJPY at 150.492 sl: 151.495' not sent to 'E09CE57F'
-0	19:45:02.702	'6234196': close order #156587512 sell 0.10 GBPJPY at 150.492 sl: 151.495 tp: 0.000 at price 0.000
-0	19:45:03.774	'6234196': order #156587512 sell 0.10 GBPJPY at 150.492 sl: 151.495 tp: 0.000 closed at price 150.517
-0	19:45:04.224	Notifications: 'order opened #156587512 sell 0.10 GBPJPY at 150.492 sl: 151.495' sent to 'E09CE57F'
-0	19:45:05.411	Notifications: '#156590589 withdrawal 3 JPY, Interest' sent to 'E09CE57F'
-0	19:45:06.580	Notifications: 'order #156587512 sell 0.10 GBPJPY at 150.492 closed at price 150.517, profit: -250 JPY' sent to 'E09CE57F'
+0	00:00:01.396	SpanModelTrader GBPJPY,M5: 201790281800000000     2017.09.28 18:00    INFO        TrendFollow       Position                                Buy                   00                    シグナルが点灯しました。
+2	00:00:01.855	SpanModelTrader GBPJPY,M5: open #156563694 buy 0.10 GBPJPY at 151.565 sl: 150.564 ok
+0	00:00:01.855	SpanModelTrader GBPJPY,M5: 201790281800000000     2017.09.28 18:00    INFO        TrendFollow       Position                                                      00                    ポジションを取得しました。
+2	01:40:05.374	SpanModelTrader GBPJPY,M5: close #156563694 buy 0.10 GBPJPY at 151.565 sl: 150.564 at price 151.303
+0	01:40:05.374	SpanModelTrader GBPJPY,M5: 201790281940000000     2017.09.28 19:40    INFO        TrendFollow       Position                                                      00                    ポジションを決済しました。
+0	01:40:05.374	SpanModelTrader GBPJPY,M5: 201790281940000000     2017.09.28 19:40    INFO        TrendFollow       Position                                                      00                    ポジションを決済しました。
+0	01:40:05.374	SpanModelTrader GBPJPY,M5: 201790281940000000     2017.09.28 19:40    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	01:40:05.374	SpanModelTrader GBPJPY,M5: 201790281940000000     2017.09.28 19:40    INFO                                                                                        00                    EAを初期化しました。
+0	10:00:02.180	SpanModelTrader GBPJPY,M5: 201790294000000000     2017.09.29 04:00    INFO        TrendFollow       Position                                3SigmaShrink          00                    シグナルが点灯しました。
+0	17:35:03.140	SpanModelTrader GBPJPY,M5: 201790291135000000     2017.09.29 11:35    INFO        TrendFollow       Position                                Sell                  00                    シグナルが点灯しました。
+2	17:35:03.510	SpanModelTrader GBPJPY,M5: open #156587512 sell 0.10 GBPJPY at 150.492 sl: 151.495 ok
+0	17:35:03.510	SpanModelTrader GBPJPY,M5: 201790291135000000     2017.09.29 11:35    INFO        TrendFollow       Position                                                      00                    ポジションを取得しました。
+2	19:45:03.774	SpanModelTrader GBPJPY,M5: close #156587512 sell 0.10 GBPJPY at 150.492 sl: 151.495 at price 150.517
+0	19:45:03.774	SpanModelTrader GBPJPY,M5: 201790291345000000     2017.09.29 13:45    INFO        TrendFollow       Position                                                      00                    ポジションを決済しました。
+0	19:45:03.774	SpanModelTrader GBPJPY,M5: 201790291345000000     2017.09.29 13:45    INFO        TrendFollow       Position                                                      00                    ポジションを決済しました。
+0	19:45:03.774	SpanModelTrader GBPJPY,M5: 201790291345000000     2017.09.29 13:45    INFO        TrendFollow       Position                                                      00                    シグナルが消灯しました。
+0	19:45:03.774	SpanModelTrader GBPJPY,M5: 201790291345000000     2017.09.29 13:45    INFO                                                                                        00                    EAを初期化しました。
