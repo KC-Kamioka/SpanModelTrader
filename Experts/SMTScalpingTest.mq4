@@ -34,7 +34,7 @@ void OnTick()
   {
 //---
    Scalping(SIGNALBUY);
-   Scalping(SIGNALSELL);
+  // Scalping(SIGNALSELL);
   
   }
 //+------------------------------------------------------------------+
