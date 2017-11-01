@@ -8,6 +8,8 @@
 #property version   "1.00"
 #property strict
 #include <SMTTradeMain.mqh>
+#include <SuperBolingerCommon.mqh>
+
 
 //+------------------------------------------------------------------+
 //| Expert initialization function                                   |
@@ -16,6 +18,10 @@ int OnInit()
   {
 //---
    
+   for(int i=30; i>0; i--)
+     {
+   double dTest=GetH1ClosePrice(i);
+   }
 //---
    return(INIT_SUCCEEDED);
   }
@@ -33,7 +39,7 @@ void OnDeinit(const int reason)
 void OnTick()
   {
 //---
-   Scalping(SIGNALBUY);
+   //Scalping(SIGNALBUY);
   // Scalping(SIGNALSELL);
   
   }
