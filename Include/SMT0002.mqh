@@ -10,9 +10,9 @@
 #include <SMT0001.mqh>
 #import "SMT0002.ex4"
 SpanModelPrice SetNewSMPrice(int iBarNo);
-string CheckSMDelayedSpan(int iBarNo);
-string CheckSMBlueSpan(int iBarNo);
-bool CheckCloseSignal_SMBlueSpan(string sSignal,int iBarNo);
-bool CheckCloseSignal_SMDelayedSpan(string sSignal,int iBarNo);   
+string CheckSMBlueSpan(double dBlueSpan,double dRedSpan,int iBarNo);
+string CheckSMDelayedSpan(double dSMDelayedSpan,double dHighest,double dLowest,int iBarNo);
+bool CheckCloseSignal_SMBlueSpan(string sSignal,double dBlueSpan,double dRedSpan,int iBarNo);
+bool CheckCloseSignal_SMDelayedSpan(string sSignal,double dSMDelayedSpan,double dClose27,int iBarNo);
 #import
 //+------------------------------------------------------------------+
