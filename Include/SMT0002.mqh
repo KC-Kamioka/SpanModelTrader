@@ -12,6 +12,7 @@
 SpanModelPrice SetNewSMPrice(int iBarNo);
 string CheckSMBlueSpan(double dBlueSpan,double dRedSpan,int iBarNo);
 string CheckSMDelayedSpan(double dSMDelayedSpan,double dHighest,double dLowest,int iBarNo);
+string CheckSigmaLine(double dPlusSigma,double dMnusSigma,double dClose,int iBarNo);
 bool CheckCloseSignal_SMBlueSpan(string sSignal,double dBlueSpan,double dRedSpan,int iBarNo);
 bool CheckCloseSignal_SMDelayedSpan(string sSignal,double dSMDelayedSpan,double dClose27,int iBarNo);
 #import
