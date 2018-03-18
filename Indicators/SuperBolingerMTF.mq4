@@ -66,7 +66,7 @@ int OnCalculate(const int rates_total,
                 const int &spread[])
   {
 //---
-   SuperBolingerPrice sbr;
+   SuperBolingerRate sbr;
    for(int i=0; i<rates_total-UPPERDELAYEDSPANBARNO-1; i++)
    {
       if(GetSuperBolingerRate(sbr,i))
